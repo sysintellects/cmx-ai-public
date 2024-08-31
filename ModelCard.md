@@ -2,7 +2,7 @@
 
 ### Model Details
 
-* **Model Description:** CMX AI is a large language model (LLM) designed for enterprise-level legal and business applications. It excels at understanding, analyzing, and generating legal contracts, handling document generation, compliance analysis, and even supporting bid opportunities.
+* **Model Description:** CMX AI is a large language model (LLM) designed for highly secure enterprise-level legal, procurement and business applications. It excels in understanding, analyzing, and generating large set of folders and documents such as legal contracts and handles bulk document generation, compliance analysis, and response documents as per specification analyzed by AI using it's properietary auto filling (Fill in AI) and AI based autogen capabiliies .
 * **Developed by:** Sysintellects LLC
 * **Model type:** Large Language Model (LLM)
 * **Language(s):** English
@@ -24,12 +24,13 @@
 * **Auto Gen AI:**  CMX AI can generate proposals, contracts, reports, and letters based on user inputs and instructions.  
 * **Fill In AI:** CMX AI can fill out online forms, generate financial statements, or complete tax forms based on provided data and instructions.
 * **Compliance AI:** CMX AI can help users understand and comply with relevant regulations by providing summaries of legal requirements, identifying potential compliance risks, and generating reports.
-* **Bid Booster AI:** CMX AI analyzes tender documents and identifies relevant opportunities for users based on company information and specific criteria.
+* **Bid Booster AI:** CMX AI analyzes tender documents and identifies relevant opportunities for users based on company information and specific criteria and auto generates bid responses document packages.
 
 **Downstream Use:**
 
-* Contract Summarization
-* Metadata Extraction
+* Large Document Set and Contract Documents Summarization 
+* Metadata Extraction for Key Information
+* Natural Language Queries using a Chat Interface on private respository documents
 
 **Out-of-Scope Use:**
 
