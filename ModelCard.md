@@ -1,8 +1,8 @@
-## CMX AI
+## CMx AI
 
 ### Model Details
 
-* **Model Description:** CMX AI is a large language model (LLM) designed for highly secure enterprise-level legal, procurement and business applications. It excels in understanding, analyzing, and generating large set of folders and documents such as legal contracts and handles bulk document generation, compliance analysis, and response documents as per specification analyzed by AI using it's properietary auto filling (Fill in AI) and AI based autogen capabiliies .
+* **Model Description:** CMx AI is a large language model (LLM) designed for highly secure enterprise-level legal, procurement and business applications. It excels in understanding, analyzing, and generating large set of folders and documents such as legal contracts and handles bulk document generation, compliance analysis, and response documents as per specification analyzed by AI using it's properietary auto filling (Fill in AI) and AI based autogen capabiliies .
 * **Developed by:** Sysintellects LLC
 * **Model type:** Large Language Model (LLM)
 * **Language(s):** English
@@ -20,11 +20,11 @@
 
 **Direct Use:**
 
-* **Contextual AI:** CMX AI can analyze and summarize a wide range of legal contracts, including employment contracts, non-disclosure agreements, sales agreements, service contracts, and more specialized types. It can also help identify potential risks and generate legal templates based on user inputs. 
-* **Auto Gen AI:**  CMX AI can generate proposals, contracts, reports, and letters based on user inputs and instructions.  
-* **Fill In AI:** CMX AI can fill out online forms, generate financial statements, or complete tax forms based on provided data and instructions.
-* **Compliance AI:** CMX AI can help users understand and comply with relevant regulations by providing summaries of legal requirements, identifying potential compliance risks, and generating reports.
-* **Bid Booster AI:** CMX AI analyzes tender documents and identifies relevant opportunities for users based on company information and specific criteria and auto generates bid responses document packages.
+* **Contextual AI:** CMx AI can analyze and summarize a wide range of legal contracts, including employment contracts, non-disclosure agreements, sales agreements, service contracts, and more specialized types. It can also help identify potential risks and generate legal templates based on user inputs. 
+* **Auto Gen AI:**  CMx AI can generate proposals, contracts, reports, and letters based on user inputs and instructions.  
+* **Fill In AI:** CMx AI can fill out online forms, generate financial statements, or complete tax forms based on provided data and instructions.
+* **Compliance AI:** CMx AI can help users understand and comply with relevant regulations by providing summaries of legal requirements, identifying potential compliance risks, and generating reports.
+* **Bid Booster AI:** CMx AI analyzes tender documents and identifies relevant opportunities for users based on company information and specific criteria and auto generates bid responses document packages.
 
 **Downstream Use:**
 
@@ -38,13 +38,13 @@
 
 ## Bias, Risks, and Limitations
 
-* **Potential Biases:**  CMX AI will likely reflect biases present in the existing dataset of contracts within the system.  We're aware of this potential bias and are currently investigating methods to mitigate it. 
+* **Potential Biases:**  CMx AI will likely reflect biases present in the existing dataset of contracts within the system.  We're aware of this potential bias and are currently investigating methods to mitigate it. 
 * **Mitigation Strategies:** Currently, we don't have specific data de-biasing techniques in place. However, we are actively researching and exploring options to reduce bias in the model's outputs. 
-* **Risks:** As with any LLM, there are risks associated with the use of CMX AI, including the potential for generating misleading or inaccurate information. These risks can be further exacerbated by the model's reliance on existing data within the system. 
+* **Risks:** As with any LLM, there are risks associated with the use of CMx AI, including the potential for generating misleading or inaccurate information. These risks can be further exacerbated by the model's reliance on existing data within the system. 
 
 ## Recommendations
 
-* **Users should be aware that CMX AI may generate biased or inaccurate outputs. They should critically evaluate the model's suggestions and consult with legal professionals for critical decisions.** 
+* **Users should be aware that CMx AI may generate biased or inaccurate outputs. They should critically evaluate the model's suggestions and consult with legal professionals for critical decisions.** 
 
 ## Training Details
 
@@ -68,8 +68,8 @@
 
 ## Technical Specifications
 
-* **Model Architecture:** CMX AI is based on the LLaMA 3 architecture, which is a Transformer-based language model.  The LLaMA 3 model we fine-tune has 32 layers, 32 attention heads, and a vocabulary size of 128,256 tokens.  The 8B version uses Grouped-Query Attention (GQA) for enhanced scalability and longer context handling, allowing for processing sequences up to 8,192 tokens.
-* **Objective Function:**  The objective function used during the training of CMX AI is autoregressive language modeling. This aims to minimize the cross-entropy loss between the predicted and actual output tokens given the input context.
+* **Model Architecture:** CMx AI is based on the LLaMA 3 architecture, which is a Transformer-based language model.  The LLaMA 3 model we fine-tune has 32 layers, 32 attention heads, and a vocabulary size of 128,256 tokens.  The 8B version uses Grouped-Query Attention (GQA) for enhanced scalability and longer context handling, allowing for processing sequences up to 8,192 tokens.
+* **Objective Function:**  The objective function used during the training of CMx AI is autoregressive language modeling. This aims to minimize the cross-entropy loss between the predicted and actual output tokens given the input context.
 
 **Compute Infrastructure:**
 
